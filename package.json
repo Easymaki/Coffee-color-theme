@@ -1,0 +1,33 @@
+{
+    "name": "Coffee Theme",
+    "version": "1.0.0",
+    "icon": "images/icon.png",
+    "displayName": "Coffee Theme",
+    "description": "Coffee dark color theme",
+    "publisher": "easymaki",
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "1987",
+                "uiTheme": "vs-dark",
+                "path": "./themes/coffee-theme-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/easymaki/coffee-color-theme.git"
+    },
+    "author": "Nikita",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/easymaki/coffee-color-theme/issues"
+    },
+    "homepage": "https://github.com/easymaki/coffee-color-theme#readme"
+}
