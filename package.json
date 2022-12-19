@@ -14,7 +14,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "1987",
+                "label": "Coffee Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/coffee-theme-color-theme.json"
             }
